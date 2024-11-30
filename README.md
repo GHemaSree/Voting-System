@@ -16,24 +16,24 @@ A Python program that simulates a voting process for a constituency. It ensures 
 - Displays the total votes for each option and announces the winner.
 
 ## Example Output
-Enter your age: 25
-WELCOME TO ABC CONSTITUENCY
-Enter your name: Alice
-Enter your id: 2001
-======================
-Option 1: BJP
-Option 2: Congress
-Option 3: BRS
-Option 4: TDP
-Option 5: Nota
-======================
-Cast your vote: 3
-2001 vote casted successfully thank you!!
+- Enter your age: 25
+- WELCOME TO ABC CONSTITUENCY
+- Enter your name: Alice
+- Enter your id: 2001
+- ======================
+- Option 1: BJP
+- Option 2: Congress
+- Option 3: BRS
+- Option 4: TDP
+- Option 5: Nota
+- ======================
+- Cast your vote: 3
+- 2001 vote casted successfully thank you!!
 
-Voting process completed
-BJP: 0
-Congress: 0
-BRS: 1
-TDP: 0
-Nota: 0
-Winner is BRS with votes 1
+- Voting process completed
+- BJP: 0
+- Congress: 0
+- BRS: 1
+- TDP: 0
+- Nota: 0
+- Winner is BRS with votes 1
