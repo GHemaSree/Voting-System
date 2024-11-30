@@ -16,7 +16,7 @@ A Python program that simulates a voting process for a constituency. It ensures 
 - Displays the total votes for each option and announces the winner.
 
 ## Example Output
-- Enter your age: 25
+-- Enter your age: 25
 - WELCOME TO ABC CONSTITUENCY
 - Enter your name: Alice
 - Enter your id: 2001
